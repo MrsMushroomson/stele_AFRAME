@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 94,
+    "left": 85,
+    "width": 2019,
+    "height": 2692,
+    "isRotated": false,
+    "originalWidth": 2189,
+    "originalHeight": 2880
+  },
+  "imagePath": "image-targets/stele_latoA_original_luminance.jpg",
+  "metadata": null,
+  "name": "stele_latoA_original",
+  "resources": {
+    "originalImage": "stele_latoA_original_original.jpg",
+    "croppedImage": "stele_latoA_original_cropped.jpg",
+    "thumbnailImage": "stele_latoA_original_thumbnail.jpg",
+    "luminanceImage": "stele_latoA_original_luminance.jpg"
+  },
+  "created": 1784018362343,
+  "updated": 1784018372800
+}
